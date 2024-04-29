@@ -11,7 +11,7 @@ This project involved the design and construction of a radio-controlled drone wi
 
 ## Technologies Used
 * NRF24L01 Radio Module: Enabled long-distance communication without signal interruptions.
-* Arduino, MPU6050 and magnetometer: Core components for controlling drone movement and stability.
+* Microcontroller, accelerometer and magnetometer: Core components for controlling drone movement and stability.
 * 3D Designing & Printing: Utilized for creating custom drone frame components from STL files.
 * EasyEDA and JLCPCB: Tools for PCB design and manufacturing.
 
